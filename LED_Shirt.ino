@@ -74,4 +74,8 @@ static void SetLittleHeart(){
   
   strip.show();
 }
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 7ca6a74259dbd21d7351d60e0e1005e10baa4eb6
